@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visma_Salary_Import", "Visma_Salary_Import\Visma_Salary_Import.csproj", "{D51E716E-8B74-40F4-B9CF-C631E7016422}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{09442595-CC7D-4A15-A08B-D855C979EF9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D51E716E-8B74-40F4-B9CF-C631E7016422}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D51E716E-8B74-40F4-B9CF-C631E7016422}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D51E716E-8B74-40F4-B9CF-C631E7016422}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D51E716E-8B74-40F4-B9CF-C631E7016422}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
